@@ -1,0 +1,1 @@
+let myname:string|null = null;
